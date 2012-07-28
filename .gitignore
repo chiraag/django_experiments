@@ -1,0 +1,6 @@
+# Ignore compiled binaries for python
+*.pyc
+
+# Ignore editor temporary file
+*~
+*.swp
